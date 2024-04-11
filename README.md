@@ -1,2 +1,6 @@
 # TIC TAC TOE
- tic-tac-toe in python
+This tic tac toe game had an AI opponent which will try its best to defeat ypu.
+
+GOOD LUCK DEFEATING IT
+
+Bot is created usign minimax algoritm and ui using tkinter
